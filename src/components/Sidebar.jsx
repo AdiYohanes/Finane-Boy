@@ -20,11 +20,6 @@ const MENUS = [
     icon: <HomeIcon className={iconClass} />,
   },
   {
-    path: "/transaksi",
-    name: "Transaksi",
-    icon: <ClipboardCheckIcon className={iconClass} />,
-  },
-  {
     path: "/wallet",
     name: "Wallet",
     icon: <Wallet2Icon className={iconClass} />,
